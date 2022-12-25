@@ -37,6 +37,7 @@
   ./networking
   ./nix
   ./nix/nix-darwin.nix
+  ./nix/nix-monitored.nix
   ./nix/nixpkgs.nix
   ./environment
   ./fonts
